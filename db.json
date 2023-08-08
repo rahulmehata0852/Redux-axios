@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "name": "Shubham",
+      "desc": "React is fun",
+      "hero": "https://getbootstrap.com/docs/5.3/assets/img/parcel.png",
+      "id": 1
+    },
+    {
+      "name": "Tushar",
+      "desc": "Tushar is fun",
+      "hero": "https://getotstrap.com/docs/5.3/assets/img/parcel.png",
+      "id": 2
+    },
+    {
+      "name": "Rahul",
+      "desc": "Sama",
+      "hero": "https://getbootstrap.com/docs/5.3/assets/img/parcel.png",
+      "id": 3
+    }
+  ]
+}
